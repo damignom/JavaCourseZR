@@ -3,7 +3,6 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-Краткое описание вашего проекта (1-2 предложения). Что он делает и для кого?
 
 ## 🚀 Обо мне
 
